@@ -17,7 +17,6 @@ public class ChessMatch {
                 mat[i][j] = (ChessPiece) board.piece(i, j);
             }
         }
-
         return mat;
     }
 

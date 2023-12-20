@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af5120e1-9488-4b6e-b19d-a3ae75bedd01" name="Changes" comment="Moving pieces">
+    <list default="true" id="af5120e1-9488-4b6e-b19d-a3ae75bedd01" name="Changes" comment="Handling exceptions and clearing screen">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boardgame/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardgame/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701381403090</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Handling exceptions and clearing screen">
+      <created>1703075077928</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703075077928</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,7 +158,8 @@
     <MESSAGE value="BoardException and defensive programming" />
     <MESSAGE value="Little improvement in board printing" />
     <MESSAGE value="Moving pieces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moving pieces" />
+    <MESSAGE value="Handling exceptions and clearing screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Handling exceptions and clearing screen" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/chess_system$program.ic" NAME="program Coverage Results" MODIFIED="1698332249626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

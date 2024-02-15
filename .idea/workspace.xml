@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af5120e1-9488-4b6e-b19d-a3ae75bedd01" name="Changes" comment="Checkmate logic">
+    <list default="true" id="af5120e1-9488-4b6e-b19d-a3ae75bedd01" name="Changes" comment="Piece move count">
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Pawn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708027596692</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Piece move count">
+      <created>1708027886543</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708027886543</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +223,8 @@
     <MESSAGE value="Handling captured pieces" />
     <MESSAGE value="Check logic" />
     <MESSAGE value="Checkmate logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checkmate logic" />
+    <MESSAGE value="Piece move count" />
+    <option name="LAST_COMMIT_MESSAGE" value="Piece move count" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/chess_system$program.ic" NAME="program Coverage Results" MODIFIED="1698332249626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af5120e1-9488-4b6e-b19d-a3ae75bedd01" name="Changes" comment="Implementing possible moves of King">
+    <list default="true" id="af5120e1-9488-4b6e-b19d-a3ae75bedd01" name="Changes" comment="Switching player each turn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708019682750</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Switching player each turn">
+      <created>1708021047405</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708021047405</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,7 +191,8 @@
     <MESSAGE value="Possible moves of a piece" />
     <MESSAGE value="Implementing possible moves of Rook" />
     <MESSAGE value="Implementing possible moves of King" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing possible moves of King" />
+    <MESSAGE value="Switching player each turn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switching player each turn" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/chess_system$program.ic" NAME="program Coverage Results" MODIFIED="1698332249626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af5120e1-9488-4b6e-b19d-a3ae75bedd01" name="Changes" comment="Check logic">
+    <list default="true" id="af5120e1-9488-4b6e-b19d-a3ae75bedd01" name="Changes" comment="Checkmate logic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/program.java" afterDir="false" />
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708026341555</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Checkmate logic">
+      <created>1708027596692</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708027596692</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,7 +216,8 @@
     <MESSAGE value="Switching player each turn" />
     <MESSAGE value="Handling captured pieces" />
     <MESSAGE value="Check logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Check logic" />
+    <MESSAGE value="Checkmate logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checkmate logic" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/chess_system$program.ic" NAME="program Coverage Results" MODIFIED="1698332249626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
